@@ -22,7 +22,7 @@ const App = () => {
       <Pricing />
       <Contact />
       <BMICalculator />
-      <Footer />
+      {/* <Footer /> */}
       <ToastContainer theme="dark" position="top-center" />
     </Router>
   );

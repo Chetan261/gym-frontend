@@ -34,7 +34,7 @@ const Pricing = () => {
 
   return (
     <section id="pricing" className="pricing">
-      <h1>ELITE EDGE FITNESS PLANS</h1>
+      <h1>PRO 22 FITNESS PLANS</h1>
       <div className="wrapper">
         {pricing.map((element) => {
           return (
